@@ -11,7 +11,7 @@
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=InternetBowser670&theme=darkhub&column=4&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Metrics](https://raw.githubusercontent.com/InternetBowser670/InternetBowser670/main/github-metrics.svg)
+![GitHub Topics](./metrics.plugin.topics.icons.svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=InternetBowser670&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
