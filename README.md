@@ -11,7 +11,6 @@
 ## My GitHub stats:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=InternetBowser670&label=Profile%20views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/InternetBowser670?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/InternetBowser670?label=Stars&style=social)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=InternetBowser670&theme=transparent&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
