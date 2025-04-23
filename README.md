@@ -18,11 +18,13 @@
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InternetBowser670&layout=donut&theme=transparent&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=InternetBowser670&theme=darkhub&column=4&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=InternetBowser670&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
 ![GitHub Topics](./metrics.plugin.topics.icons.svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=InternetBowser670&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
-![Contribution Snake](https://github.com/InternetBowser670/InternetBowser670/blob/output/github-contribution-grid-snake.svg)
-
-*Yes, I create PRs and isuues just to have them*
+<picture>
+  <source srcset="dist/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
+  <source srcset="dist/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light)">
+  <img alt="GitHub Contribution Snake" src="dist/github-contribution-grid-snake.svg">
+</picture
