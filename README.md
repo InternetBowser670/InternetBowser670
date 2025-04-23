@@ -18,7 +18,7 @@
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InternetBowser670&layout=donut&theme=transparent&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=InternetBowser670&theme=darkhub&column=4&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://streak-stats.demolab.com?user=InternetBowser670&theme=dark&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=InternetBowser670&theme=transparent&border_radius=5&exclude_days=Mon%2CTue%2CWed%2CThu)](https://git.io/streak-stats)
 
 ![GitHub Topics](./metrics.plugin.topics.icons.svg)
 
