@@ -17,7 +17,7 @@
 ![Top Langs](https://raw.githubusercontent.com/InternetBowser670/github-stats-jstrieb/master/generated/languages.svg#gh-dark-mode-only)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=InternetBowser670&theme=darkhub&column=4&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://streak-stats.demolab.com?user=InternetBowser670&theme=transparent&border_radius=5&exclude_days=Mon%2CTue%2CWed%2CThu)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=InternetBowser670&theme=transparent&mode=weekly)](https://git.io/streak-stats)
 
 ![GitHub Topics](./metrics.plugin.topics.icons.svg)
 
