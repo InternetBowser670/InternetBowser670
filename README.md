@@ -22,7 +22,7 @@
 ![Top Langs](https://raw.githubusercontent.com/InternetBowser670/github-stats-jstrieb/master/generated/languages.svg#gh-light-mode-only)
 ![Top Langs](https://raw.githubusercontent.com/InternetBowser670/github-stats-jstrieb/master/generated/languages.svg#gh-dark-mode-only)
 
-![Trophies](https://github-trophies.vercel.app/?username=InternetBowser670&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=InternetBowser670&wantAncientAccount=false&wantNewAccount=false&rank=-UNKNOWN&theme=darkhub)
 ![GitHub Streak](https://github-readme-streak-stats-eta-blond.vercel.app?user=InternetBowser670&theme=transparent&mode=weekly)
 
 ![GitHub Topics](./metrics.plugin.topics.icons.svg)
