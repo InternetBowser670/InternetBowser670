@@ -20,13 +20,13 @@
 ![My Github Stats](https://raw.githubusercontent.com/InternetBowser670/github-stats-jstrieb/master/generated/overview.svg#gh-dark-mode-only)
 ![My Github Stats](https://raw.githubusercontent.com/InternetBowser670/github-stats-jstrieb/master/generated/overview.svg#gh-light-mode-only)
 ![Top Langs](https://raw.githubusercontent.com/InternetBowser670/github-stats-jstrieb/master/generated/languages.svg#gh-light-mode-only)
-![Top Langs](https://raw.githubusercontent.com/InternetBowser670/github-stats-jstrieb/master/generated/languages.svg#gh-dark-mode-only)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@8a2352d7-51cc-466e-b130-1a7eee4a301b/04a3eba2-fbea-4c77-aa20-e0ee61302eb5.png" /></a>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@8a2352d7-51cc-466e-b130-1a7eee4a301b/d153edd7-8de6-4b64-8ab3-298d3c1f73b7.png" /></a>
 
 ![Trophies](https://github-profile-trophy.screw-hand.vercel.app/?username=InternetBowser670&wantAncientAccount=false&wantNewAccount=false&rank=-UNKNOWN&theme=darkhub)
 ![GitHub Streak](https://github-readme-streak-stats-eta-blond.vercel.app?user=InternetBowser670&theme=transparent&mode=weekly)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@8a2352d7-51cc-466e-b130-1a7eee4a301b/d153edd7-8de6-4b64-8ab3-298d3c1f73b7.png" /></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@8a2352d7-51cc-466e-b130-1a7eee4a301b/04a3eba2-fbea-4c77-aa20-e0ee61302eb5.png" /></a>
 
 ![GitHub Topics](./metrics.plugin.topics.icons.svg)
 
